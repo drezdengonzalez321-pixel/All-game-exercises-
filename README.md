@@ -1,6 +1,6 @@
 Pinwheel Game
-[Windows](https://drive.google.com/file/d/1mTJefYqqxjX76Fc1tMAuo5dQiHYteWHJ/view?usp=sharing)
-[Windows.exe](https://drive.google.com/file/d/1RI5IsiAu_tThnItWhyXcG2sLv2alcqSg/view?usp=sharing)
-[Macos](https://drive.google.com/file/d/1yGgiSy1M2VmvNBMl9j6TTXQLquUEqUQC/view?usp=sharing)
-[Linux](https://drive.google.com/file/d/11uW1uNTn0P0cz75PKSplpEnits8zzhTP/view?usp=sharing)
-Play was a pinwheel and there is realistic gravity physics 
+[Windows](https://drive.google.com/file/d/1n2ZyCBAtovFrY9C5t7NuuR1v7MGyollk/view?usp=sharing)
+[Windows.exe](https://drive.google.com/file/d/1RcGrSjxLRBPKh4ol_GbdSrAK5cJCwu1p/view?usp=sharing)
+[Macos] [](https://drive.google.com/file/d/13d_1V03H8fDe7I4a4st7oGSD5qWEqbyV/view?usp=sharing)
+[Linux](https://drive.google.com/file/d/1CZJcd_wlvE6riTUBtY5yTiDAMRZne3YH/view?usp=sharing)
+Move around press space to shoot, destroying the bug wins the game
